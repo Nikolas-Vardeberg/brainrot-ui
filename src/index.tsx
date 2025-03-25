@@ -1,1 +1,0 @@
-export { default as Goon } from "./components/goon/goon"
